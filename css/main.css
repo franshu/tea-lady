@@ -15,6 +15,14 @@ h1{
 font-family: 'Pacifico', cursive;
 }
 
+header h1{
+	font-size: 40px;
+	background-color: #d8aee5;
+	color: whitesmoke;
+	text-align: center;
+	padding: 30px;
+	margin: 0;
+}
 #formulario
 button{
 border:1px solid #d7dada; -webkit-border-radius: 3px; 
